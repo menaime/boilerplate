@@ -1,0 +1,14 @@
+{
+  "name": "ifapme-student/devoir-2",
+  "description": "Devoir 2 - ADB 2023",
+  "version": "1.0.0",
+  "type": "project",
+  "keywords": [
+    "produits"
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "twbs/bootstrap": "5.2.3",
+    "twbs/bootstrap-icons": "^1.10"
+  }
+}
